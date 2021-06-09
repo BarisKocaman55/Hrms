@@ -3,8 +3,8 @@ Human resource management system Project
 
 ## DataBase Design
 
-![](DataBaseDesign.PNG)
+![](DataBaseDesign.png)
 
 
 ##UML Diagram
-![](Hrms.PNG)
+![](Hrms.png)
