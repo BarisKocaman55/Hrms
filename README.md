@@ -6,5 +6,5 @@ Human resource management system Project
 ![](DataBaseDesign.png)
 
 
-##UML Diagram
+## UML Diagram
 ![](Hrms.png)
